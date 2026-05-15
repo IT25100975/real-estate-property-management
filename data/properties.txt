@@ -1,0 +1,3 @@
+H001,House,old house,Colombo,23000.0,near the town,3,2
+A001,Apartment,small house,chilow,24000.0,water in there,2,23
+L001,Land,big land,Colombo,23482.0,near to highway entrance,2.0,not pady
